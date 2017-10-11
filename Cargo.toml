@@ -1,0 +1,6 @@
+[package]
+name = "rbomberman"
+version = "0.1.0"
+authors = ["Michal Nicpon <nicpon.michal@gmail.com>"]
+
+[dependencies]
