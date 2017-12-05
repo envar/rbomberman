@@ -4,3 +4,9 @@ version = "0.1.0"
 authors = ["Michal Nicpon <nicpon.michal@gmail.com>"]
 
 [dependencies]
+log = "*"
+env_logger = "0.4.3"
+gfx = "0.16"
+glutin ="*"
+gfx_window_glutin = "*"
+image = "*"
